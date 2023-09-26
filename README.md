@@ -9,13 +9,13 @@ IMS:  https://pan.baidu.com/s/1-IROg_FSVXGX1ERNKj210Q   password：8emo
 
 MFD:  https://www02.smt.ufrj.br/~offshore/mfs/page_01.html
 
-The data preprocessing file and the non-iid partition are placed in the datasets folder.
+The data preprocessing file and the non-iid partition are placed in the **datasets** folder.
 
-The models folder provides the basic neural network building blocks for training objective functions.
+The **models** folder provides the basic neural network building blocks and training objective functions.
 
-Run the main.py file to train the model and save the results.
+Run the **main.py** file to train the model and save the results.
 
-The model FTCCL used in the main.py file will be made available after the paper has been accepted.
+***Note: The model FTCCL used in the main.py file will be made available after the paper has been accepted.***
 
 
 
